@@ -1,0 +1,31 @@
+.navigation {
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 40px;
+    font-size: 20px;
+}
+
+.home_navigation {
+    margin-right: 20px;
+    text-decoration: none;
+    color: rgb(90, 8, 138);
+    font-weight: bold;
+}
+
+.home_navigation:focus {
+    border-bottom: 4px solid #6100bd;
+    color: #6100bd;
+    padding-bottom: 5px;
+}
+
+.notes_navigation {
+    text-decoration: none;
+    color: rgb(90, 8, 138);
+    font-weight: bold;
+}
+
+.notes_navigation:focus {
+    border-bottom: 4px solid #6100bd;
+    color: #6100bd;
+    padding-bottom: 5px;
+}
